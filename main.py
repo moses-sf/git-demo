@@ -1,5 +1,7 @@
 def main():
-    print("Hello World!")
+    val: int = 0
+    val += 5
+    print(val)
 
 
 main()
